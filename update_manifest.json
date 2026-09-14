@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.1.4",
-  "apkUrl": "https://github.com/DeyberCh/omnitool-releases/releases/download/v1.1.4/omnitool.apk",
+  "versionCode": 1,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/DeyberCh/omnitool-releases/releases/download/v1.1.1/omnitool.apk",
   "apkSizeBytes": 0,
   "releaseNotes": [
     "Primera versión con sistema de actualizaciones.",
